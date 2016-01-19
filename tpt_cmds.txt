@@ -1,0 +1,12 @@
+[238344371] Tx: {0x1c} Forward Speed=12
+[238426983] Tx: {0x5c} LeftForward Speed=12
+[239440506] Tx: {0x3c} Left Speed=12
+[239480504] Tx: {0xc} Stop Speed=12
+[239720762] Tx: {0x2c} Backward Speed=12
+[239936569] Tx: {0x8c} RightBackward Speed=12
+[240864613] Tx: {0x4c} Right Speed=12
+[240880634] Tx: {0xc} Stop Speed=12
+[241368790] Tx: {0x1c} Forward Speed=12
+[242369587] Tx: {0xc} Stop Speed=12
+
+0x1c,82612,0x5c,1013523,0x3c,39998,0xc,240258,0x2c,215807,0x8c,928044,0x4c,16021,0xc,488156,0x1c,1000797,0xc,0
